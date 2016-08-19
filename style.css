@@ -1,6 +1,6 @@
 body {
     background-color: rgb(18, 120, 161);
-    color: greyy;
+    color: grey;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -62,7 +62,7 @@ img{
 }
 
 .redacted{
-    background-color: white;
+    background-color: rgb(18, 120, 161);
     color:  black;
 }
 
