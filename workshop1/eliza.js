@@ -30,6 +30,7 @@
 var rules = {
   "~*x hello ~*y": [
     "How do you do. Please state your problem."
+    "Sup Bruh"
   ],
   "~*x computer ~*y": [
     "Do computers worry you?",
@@ -47,6 +48,7 @@ var rules = {
     "Please don't apologize",
     "Apologies are not necessary",
     "What feelings do you have when you apologize",
+    "Yea you better apologize"
   ],
   "~*x I remember ~*y": [
     "Do you often think of ~y?",
@@ -61,6 +63,7 @@ var rules = {
     "Why do you think I should recall ~y now?",
     "What about ~y?",
     "You mentioned ~y",
+    "no"
   ],
   "~*x I want ~*y": [
     "What would it mean if you got ~y?",
@@ -85,6 +88,7 @@ var rules = {
   ],
   "~*x I dream about ~*y": [
     "How do you feel about ~y in reality?",
+    "That's dank"
   ],
   "~*x dream ~*y": [
     "What does this dream suggest to you?",
@@ -109,6 +113,7 @@ var rules = {
   "~*x I am sad ~*y": [
     "I am sorry to hear you are depressed",
     "I'm sure it's not pleasant to be sad",
+    "Stop being sad"
   ],
   "~*x are like ~*y": [
     "What resemblence do you see between ~x and ~y?",
